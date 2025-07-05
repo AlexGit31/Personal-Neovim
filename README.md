@@ -39,9 +39,9 @@ Want to add a new plugin? Just drop a Lua file in the right folder. Want to remo
 
 ---
 
-## 🚀 Installation
+## 🚀 Installation (into your ~/.config/nvim directory)
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name> ~/.config/nvim
+git clone https://github.com/AlexGit31/Personal-Neovim.git
 nvim
 ```
