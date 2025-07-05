@@ -1,4 +1,4 @@
-# 🛠️ Alexis' Modular Neovim Configuration
+# 🛠️ Modular Neovim Configuration
 
 Welcome to my personal **Neovim setup**, designed for **modularity**, **aesthetics**, and **developer comfort**.
 
